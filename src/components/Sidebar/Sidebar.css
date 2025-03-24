@@ -1,9 +1,8 @@
 .sidebar {
-    position: absolute;
   background: #fff;
   width: 15%;
   height: 100vh;
-  padding: fixed;
+  position: fixed;
   top: 0;
   margin-top: 15px;
   padding-left: 2%;
@@ -44,18 +43,18 @@
 }
 
 .small-sidebar {
-    width: 5%;
+  width: 5%;
 }
 
 .small-sidebar p {
-    display: none;
+  display: none;
 }
 
 .small-sidebar h3 {
-    display: none;
+  display: none;
 }
 
 .small-sidebar hr {
-    width: 50%;
-    margin-bottom: 25px;
+  width: 50%;
+  margin-bottom: 25px;
 }
